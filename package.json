@@ -1,0 +1,23 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "\"CRUD api for todo list\"",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "express": "~4.0.0"
+  },
+  "scripts": {
+    "test": "\u0016echo \\\"Error, no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Abbyws/todoListApi.git"
+  },
+  "keywords": [
+    "listapi"
+  ],
+  "author": "wangshuo",
+  "license": "ISC"
+}
